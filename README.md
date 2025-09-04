@@ -15,7 +15,7 @@ O projeto está organizado da seguinte forma:
 
 - **`01_HandsOn.ipynb`**: Contém o notebook Jupyter [`01_HandsOn.ipynb`](./01_HandsOn.ipynb) com conceitos introdutórios
 - **`02_HandsOn.ipynb`**: Contém o notebook Jupyter [`02_HandsOn.ipynb`](./02_HandsOn.ipynb) com uso da bandeira tarifária
-- **`agents_bootcamp.pdf`**: Contém os slides [`agents_bootcamp.pdf`](./rag_bootcamp.pdf) utilizados na apresentação teórica
+- **`agents_bootcamp.pdf`**: Contém os slides [`agents_bootcamp.pdf`](./agents_bootcamp.pdf) utilizados na apresentação teórica
 - **`LICENSE`**: Arquivo de licença do projeto
 
 ## ⚖️ Licença
