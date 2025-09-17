@@ -7,17 +7,12 @@
 
 # Agents Bootcamp
 
-**Introdução a Agentes com LLMs**, demonstrando como construir uma aplicação de Q&A (Perguntas e Respostas) com **Agno** e **Google Gemini**.
+**Introduction to Agents with LLMs**, demonstrating how to build one with **Agno** and **Google Gemini**.
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
-O projeto está organizado da seguinte forma:
+The project is organized as follows:
 
-- **`01_HandsOn.ipynb`**: Contém o notebook Jupyter [`01_HandsOn.ipynb`](./01_HandsOn.ipynb) com conceitos introdutórios
-- **`02_HandsOn.ipynb`**: Contém o notebook Jupyter [`02_HandsOn.ipynb`](./02_HandsOn.ipynb) com uso da bandeira tarifária
-- **`agents_bootcamp.pdf`**: Contém os slides [`agents_bootcamp.pdf`](./agents_bootcamp.pdf) utilizados na apresentação teórica
-- **`LICENSE`**: Arquivo de licença do projeto
-
-## ⚖️ Licença
-
-Este projeto é licenciado sob a [Licença MIT](./LICENSE).
+- **`01_HandsOn.ipynb`**: Contains the Jupyter notebook [`01_HandsOn.ipynb`](./01_HandsOn.ipynb) with introductory concepts.
+- **`02_HandsOn.ipynb`**: Contains the Jupyter notebook [`02_HandsOn.ipynb`](./02_HandsOn.ipynb) with the use of the tariff flag.
+- **`agents_bootcamp.pdf`**: Contains [`agents_bootcamp.pdf`](./agents_bootcamp.pdf) used in the theoretical presentation.
